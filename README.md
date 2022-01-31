@@ -1,0 +1,1 @@
+A twitter clone using Hotwire for Rails
